@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    background: linear-gradient(#E1BEE7 0%, #90CAF9 100%);
+    background-repeat: no-repeat;
+}
+
+img {
+    height: 200px;
+    border-radius: 50%;
+}
+
+h1 {
+    text-shadow: 2px 2px #F8BBD0;
+    font-size: 50px;
+}
+
+p {
+    font-size: 18px;
+    color: #6A1B9A;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+
+.links {
+    float: right;
+    padding: 10px;
+    list-style: none;
+    font-style: bold;
+    font-family: sans-serif;
+}
+
+.menu {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    z-index: 999;
+}
+
+#welcome img {
+    padding-top: 50px;
+}
